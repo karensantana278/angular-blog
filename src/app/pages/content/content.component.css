@@ -1,0 +1,12 @@
+.content__title{
+    color: white;
+}
+
+.breadcrumb .breadcrumb-item a{
+    color: aquamarine;
+}
+
+.breadcrumb .breadcrumb-item.active{
+    color: gainsboro;
+    
+}

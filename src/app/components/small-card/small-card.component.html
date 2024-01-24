@@ -2,6 +2,7 @@
 
     <div class="card mb-3 bg-dark">
         <div class="row g-0 justify-content-center">
+            <a [routerLink]="['content', id]" class="d-flex">
             <div class="col-md-4">
                 <img src="{{photoCover}}" class="w-100 h-100 object-fit-cover rounded-start" alt="blog placeholder">
             </div>
@@ -11,6 +12,7 @@
                     <p class="card-text">{{cardDescription}}</p>  
                 </div>
             </div>
+            </a>
         </div>
     </div>
 
