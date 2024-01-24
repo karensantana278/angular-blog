@@ -1,0 +1,12 @@
+
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.nav-link.active{
+    color: aquamarine;
+}
+
+.navbar-toggler{
+    background-color: white;
+}

@@ -1,0 +1,11 @@
+.container__big-card-info{
+    padding: 15px;
+}
+
+.big-card__title {
+    color: white;
+}
+
+.big-card__description{
+    color: gainsboro;
+}
